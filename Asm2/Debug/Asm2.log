@@ -1,0 +1,5 @@
+﻿  Menu.cpp
+G:\Code\Asm2\Asm2\Menu.cpp(45,21): warning C4018: '<': signed/unsigned mismatch
+G:\Code\Asm2\Asm2\Menu.cpp(56,21): warning C4018: '<': signed/unsigned mismatch
+G:\Code\Asm2\Asm2\Menu.cpp(80,18): warning C4018: '<': signed/unsigned mismatch
+  Asm2.vcxproj -> G:\Code\Asm2\Debug\Asm2.exe
